@@ -10,5 +10,6 @@ configMapGenerator:
       - index.html
       - styles.css
       - app.js
+      - google76d18832b5d91b8e.html
       - portfolio-index.html=portfolio/index.html
       - default.conf=k8s/default.conf

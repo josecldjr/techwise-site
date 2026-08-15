@@ -63,6 +63,8 @@ spec:
                 path: styles.css
               - key: app.js
                 path: app.js
+              - key: google76d18832b5d91b8e.html
+                path: google76d18832b5d91b8e.html
               - key: portfolio-index.html
                 path: portfolio/index.html
         - name: nginx-config
